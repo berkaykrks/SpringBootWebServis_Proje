@@ -30,4 +30,3 @@ jobs:
       with:
         paths: ${{ github.workspace }}/RestWebServisProjem/target/site/jacoco/jacoco.xml
         token: ${{ secrets.GITHUB_TOKEN }}
-  
