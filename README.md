@@ -68,14 +68,6 @@ Proje, Postman ve JMeter gibi araçlarla test edilmiştir. RESTful servislerin d
 2. Proje dizinine gidin: `cd proje`
 3. Projeyi çalıştırın: `mvn spring-boot:run`
 
-## Katkıda Bulunma
-
-1. Bu projeyi forklayın.
-2. Yeni bir branch oluşturun: `git checkout -b yeni-ozellik`
-3. Değişikliklerinizi commit edin: `git commit -am 'Yeni özellik ekle'`
-4. Branch'inizi push edin: `git push origin yeni-ozellik`
-5. Pull request oluşturun.
-
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakınız.
